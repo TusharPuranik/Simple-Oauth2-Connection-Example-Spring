@@ -36,10 +36,4 @@ This project demonstrates a simple "Hello World" application built using Spring 
 1. Run the application.
 2. Access the application in your web browser at `http://localhost:8080`.
 3. Click the "Login with Google" button to authenticate with Google.
-4. Upon successful authentication, the application will display basic user information retrieved from the Google account.
-
-## Contribution:
-Feel free to contribute to the project by creating issues, proposing improvements, or submitting pull requests.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+4. Upon successful authentication, the application will display basic user information retrieved from the Google account in the console.
